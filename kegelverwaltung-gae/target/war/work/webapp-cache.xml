@@ -11,9 +11,6 @@
           <string>META-INF/MANIFEST.MF</string>
           <string>Spielerverwaltung.jsp</string>
           <string>WEB-INF/web.xml</string>
-          <string>WEB-INF/classes/com/platzerworld/kegelverwaltung/client/GreetingService.class</string>
-          <string>WEB-INF/classes/com/platzerworld/kegelverwaltung/client/GreetingServiceAsync.class</string>
-          <string>WEB-INF/classes/com/platzerworld/kegelverwaltung/client/Platzerworld_kegelverwaltung.class</string>
           <string>WEB-INF/classes/com/platzerworld/kegelverwaltung/common/persistence/EMFService.class</string>
           <string>WEB-INF/classes/com/platzerworld/kegelverwaltung/dao/KlasseDAO.class</string>
           <string>WEB-INF/classes/com/platzerworld/kegelverwaltung/dao/MannschaftDAO.class</string>
@@ -24,13 +21,20 @@
           <string>WEB-INF/classes/com/platzerworld/kegelverwaltung/model/Spieler.class</string>
           <string>WEB-INF/classes/com/platzerworld/kegelverwaltung/model/Verein.class</string>
           <string>WEB-INF/classes/com/platzerworld/kegelverwaltung/Platzerworld_kegelverwaltung.gwt.xml</string>
-          <string>WEB-INF/classes/com/platzerworld/kegelverwaltung/server/GreetingServiceImpl.class</string>
+          <string>WEB-INF/classes/com/platzerworld/kegelverwaltung/servlet/klasse/KlassenServlet$1.class</string>
+          <string>WEB-INF/classes/com/platzerworld/kegelverwaltung/servlet/klasse/KlassenServlet$2.class</string>
           <string>WEB-INF/classes/com/platzerworld/kegelverwaltung/servlet/klasse/KlassenServlet.class</string>
           <string>WEB-INF/classes/com/platzerworld/kegelverwaltung/servlet/LigaVerwaltungServlet.class</string>
+          <string>WEB-INF/classes/com/platzerworld/kegelverwaltung/servlet/mannschaft/MannschaftServlet$1.class</string>
+          <string>WEB-INF/classes/com/platzerworld/kegelverwaltung/servlet/mannschaft/MannschaftServlet$2.class</string>
           <string>WEB-INF/classes/com/platzerworld/kegelverwaltung/servlet/mannschaft/MannschaftServlet.class</string>
           <string>WEB-INF/classes/com/platzerworld/kegelverwaltung/servlet/ServletCreate.class</string>
           <string>WEB-INF/classes/com/platzerworld/kegelverwaltung/servlet/ServletRemove.class</string>
+          <string>WEB-INF/classes/com/platzerworld/kegelverwaltung/servlet/spieler/SpielerServlet$1.class</string>
+          <string>WEB-INF/classes/com/platzerworld/kegelverwaltung/servlet/spieler/SpielerServlet$2.class</string>
           <string>WEB-INF/classes/com/platzerworld/kegelverwaltung/servlet/spieler/SpielerServlet.class</string>
+          <string>WEB-INF/classes/com/platzerworld/kegelverwaltung/servlet/verein/VereinServlet$1.class</string>
+          <string>WEB-INF/classes/com/platzerworld/kegelverwaltung/servlet/verein/VereinServlet$2.class</string>
           <string>WEB-INF/classes/com/platzerworld/kegelverwaltung/servlet/verein/VereinServlet.class</string>
           <string>WEB-INF/classes/com/platzerworld/kegelverwaltung/shared/FieldVerifier.class</string>
           <string>WEB-INF/classes/com/platzerworld/kegelverwaltung/vo/KeyValueTO.class</string>
