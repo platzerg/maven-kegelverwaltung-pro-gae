@@ -44,6 +44,14 @@
             <artifactId>persistence-api</artifactId>
             <version>1.0</version>
         </dependency>
+        
+        <dependency>
+    	<groupId>com.google.code.gson</groupId>
+    	<artifactId>gson</artifactId>
+    	<version>1.7.1</version>
+    	<type>jar</type>
+    	<scope>compile</scope>
+    </dependency>
 
         <dependency>
             <groupId>com.google.appengine</groupId>
